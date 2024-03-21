@@ -1,5 +1,9 @@
 {
-  "name": "@calcey/editor",
+  "name": "@calcey/ckeditor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calceytechnologies/ckeditor.git"
+  },
   "author": "Calcey",
   "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder.",
   "version": "0.0.1",
@@ -8,7 +12,7 @@
   "main": "./build/ckeditor.js",
   "types": "./build/ckeditor.d.ts",
   "files": [
-    "build/**"
+    "build/**/*"
   ],
   "dependencies": {
     "@ckeditor/ckeditor5-autoformat": "41.2.1",
