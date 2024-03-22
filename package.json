@@ -6,7 +6,7 @@
   },
   "author": "Calcey",
   "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "main": "./build/ckeditor.js",
   "types": "./build/ckeditor.d.ts",

@@ -75,7 +75,7 @@ class Editor extends ClassicEditor {
       ],
     },
     table: {
-      contentToolbar: ["tableColumn", "tableRow"],
+      contentToolbar: ["tableColumn", "tableRow", "mergeTableCells"],
     },
   };
 }
